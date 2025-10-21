@@ -155,6 +155,11 @@ ul li a:hover {
     justify-content: center;
 }
 
+.projectIcon h3 {
+    font-family: 'Exo 2';
+    font-size: 28px;
+    color: #FFFFFF;
+}
 .projectIcon img {
     width: 100%;
     height: 60%;
